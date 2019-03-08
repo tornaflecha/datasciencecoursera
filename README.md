@@ -1,3 +1,2 @@
 # datasciencecoursera
-This is a new repository for my course proyect
-Hi all!!
+This is a new repository for my course proyect. Hi all!!
